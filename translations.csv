@@ -1,0 +1,53 @@
+﻿key,en,fa,de,it,fr
+about_us,About Us,درباره ما,Über uns,Chi siamo,À propos de nous
+add_new,Add New,افزودن جدید,Neu hinzufügen,Aggiungi nuovo,Ajouter nouveau
+back_button,Back,بازگشت,Zurück,Indietro,Retour
+cancel_action,Cancel,لغو,Abbrechen,Annulla,Annuler
+close_button,Close,بستن,Schließen,Chiudi,Fermer
+confirm_delete,Are you sure you want to delete?,آیا مطمئن هستید که می‌خواهید حذف کنید?,Sind Sie sicher, dass Sie löschen möchten?,Sei sicuro di voler eliminare?,Êtes-vous sûr de vouloir supprimer?
+confirm_password,Confirm Password,تأیید رمز عبور,Passwort bestätigen,Conferma password,Confirmer le mot de passe
+contact_us,Contact Us,تماس با ما,Kontaktieren Sie uns,Contattaci,Contactez-nous
+continue_button,Continue,ادامه,Fortfahren,Continua,Continuer
+create_account,Create Account,ایجاد حساب کاربری,Konto erstellen,Crea account,Créer un compte
+created_date,Created Date,تاریخ ایجاد,Erstellungsdatum,Data di creazione,Date de création
+dark_mode,Dark Mode,حالت تاریک,Dunkler Modus,Modalità scura,Mode sombre
+delete_item,Delete Item,حذف آیتم,Element löschen,Elimina elemento,Supprimer l'élément
+deselect_all,Deselect All,لغو انتخاب همه,Alle abwählen,Deseleziona tutto,Désélectionner tout
+download_file,Download,دانلود,Herunterladen,Scarica,Télécharger
+edit_item,Edit,ویرایش,Bearbeiten,Modifica,Modifier
+edit_profile,Edit Profile,ویرایش پروفایل,Profil bearbeiten,Modifica profilo,Modifier le profil
+email_address,Email Address,آدرس ایمیل,E-Mail-Adresse,Indirizzo email,Adresse e-mail
+error_message,An error occurred,خطایی رخ داد,Ein Fehler ist aufgetreten,Si è verificato un errore,Une erreur s'est produite
+file_size,File Size,اندازه فایل,Dateigröße,Dimensione file,Taille du fichier
+finish_button,Finish,پایان,Fertig,Fine,Terminer
+forgot_password,Forgot Password,فراموشی رمز عبور,Passwort vergessen,Password dimenticata,Mot de passe oublié
+full_name,Full Name,نام کامل,Vollständiger Name,Nome completo,Nom complet
+help_center,Help Center,مرکز راهنما,Hilfezentrum,Centro assistenza,Centre d'aide
+home_page,Home,صفحه اصلی,Startseite,Home,Accueil
+language_selection,Select Language,انتخاب زبان,Sprache auswählen,Seleziona lingua,Sélectionner la langue
+last_modified,Last Modified,آخرین تغییر,Zuletzt geändert,Ultima modifica,Dernière modification
+light_mode,Light Mode,حالت روشن,Heller Modus,Modalità chiara,Mode clair
+loading_text,Please wait...,لطفا صبر کنید...,Bitte warten...,Attendere prego...,Veuillez patienter...
+login_button,Login,ورود,Anmelden,Accedi,Se connecter
+logout_button,Logout,خروج,Abmelden,Esci,Se déconnecter
+next_button,Next,بعدی,Weiter,Avanti,Suivant
+no_results,No results found,نتیجه‌ای یافت نشد,Keine Ergebnisse gefunden,Nessun risultato trovato,Aucun résultat trouvé
+notifications_label,Notifications,اعلان‌ها,Benachrichtigungen,Notifiche,Notifications
+password_label,Password,رمز عبور,Passwort,Password,Mot de passe
+phone_number,Phone Number,شماره تلفن,Telefonnummer,Numero di telefono,Numéro de téléphone
+previous_button,Previous,قبلی,Zurück,Precedente,Précédent
+privacy_policy,Privacy Policy,سیاست حریم خصوصی,Datenschutzrichtlinie,Informativa sulla privacy,Politique de confidentialité
+refresh_page,Refresh,به‌روزرسانی,Aktualisieren,Aggiorna,Actualiser
+reset_password,Reset Password,بازنشانی رمز عبور,Passwort zurücksetzen,Reimposta password,Réinitialiser le mot de passe
+save_changes,Save Changes,ذخیره تغییرات,Änderungen speichern,Salva modifiche,Enregistrer les modifications
+search_placeholder,Search here...,جستجو کنید...,Hier suchen...,Cerca qui...,Rechercher ici...
+select_all,Select All,انتخاب همه,Alle auswählen,Seleziona tutto,Sélectionner tout
+settings_title,Settings,تنظیمات,Einstellungen,Impostazioni,Réglages
+submit_button,Submit,ارسال,Übermitteln,Invia,Soumettre
+success_notification,Operation completed successfully,عملیات با موفقیت انجام شد,Vorgang erfolgreich abgeschlossen,Operazione completata con successo,Opération terminée avec succès
+terms_of_service,Terms of Service,شرایط استفاده,Nutzungsbedingungen,Termini di servizio,Conditions d'utilisation
+try_again,Try Again,دوباره تلاش کنید,Erneut versuchen,Riprova,Réessayer
+upload_file,Upload,آپلود,Hochladen,Carica,Téléverser
+username_label,Username,نام کاربری,Benutzername,Nome utente,Nom d'utilisateur
+view_details,View Details,مشاهده جزئیات,Details anzeigen,Visualizza dettagli,Voir les détails
+welcome_message,Welcome to our application,خوش آمدید به برنامه ما,Willkommen in unserer Anwendung,Benvenuto nella nostra applicazione,Bienvenue dans notre application
